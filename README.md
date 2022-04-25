@@ -1,4 +1,4 @@
-# CovidData-native-iOS-Mobile-App-
+# CovidData Native iOS Mobile App
 
 This is the mobile app that I made back then by using Swift and Xcode for my University's iOS course term project.
 
