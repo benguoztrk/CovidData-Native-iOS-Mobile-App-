@@ -1,0 +1,6 @@
+framework module Pods_BenguOzturk_Project {
+  umbrella header "Pods-BenguOzturk_Project-umbrella.h"
+
+  export *
+  module * { export * }
+}
